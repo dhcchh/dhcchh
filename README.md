@@ -17,8 +17,9 @@ Data Science | Machine Learning | Economics |
 - **Areas of Interest**: Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
 
 ## Current Projects
-- [VCT Hackathon: Esports Manager Assistant]()
-- [Stock Market Analysis with SPY]()
+- [VCT Hackathon: Esports Manager Assistant](https://github.com/dhcchh/VCT-Hackathon-)
+- [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
+](https://github.com/dhcchh/nysenasdaq-analysis?tab=readme-ov-file#investment-analytics-highlighting-the-value-of-stock-market-investments-for-long-term-growth)
   
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhchan/)
