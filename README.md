@@ -13,7 +13,6 @@ Data Science | Machine Learning | Economics |
 
 ## Skills
 - **Languages**: Python, R, SQL
-- **Tools**: Pandas, XGBoost, TensorFlow, AWS, GCP
 - **Areas of Interest**: Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
 
 ## Current Projects
