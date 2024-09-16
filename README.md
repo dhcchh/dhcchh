@@ -10,12 +10,11 @@ Data Science | Machine Learning | Economics |
 ## What I'm Working On
 - 🤖 Building an LLM-powered digital assistant for the VCT Hackathon.
 - 📈 Investigating stock market returns and hedging strategies using SPY.
-- 🕹️ Scraping VALORANT data to develop insights for esports teams.
 
 ## Skills
-- **Languages**: Python, R
+- **Languages**: Python, R, SQL
 - **Tools**: Pandas, XGBoost, TensorFlow, AWS, GCP
-- **Areas of Expertise**: Machine Learning, Predictive Modeling, Econometrics, Data Visualization
+- **Areas of Interest**: Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
 
 ## Current Projects
 - [VCT Hackathon: Esports Manager Assistant]()
