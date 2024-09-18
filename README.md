@@ -8,7 +8,7 @@ Data Science | Machine Learning | Economics |
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
-- 🤖 Building an LLM-powered digital assistant for the VCT Hackathon.
+- 🤖 Building an LLM-powered digital assistant for the [VCT Hackathon](https://vcthackathon.devpost.com/).
 - 📈 Investigating stock market returns and hedging strategies using SPY.
 
 ## Skills
