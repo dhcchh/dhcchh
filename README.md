@@ -8,7 +8,7 @@ Data Science | Machine Learning | Economics |
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
-- 📈 Investigating stock market returns with SPY.[Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
+- 📈 Investigating stock market returns with SPY. [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
 ](https://github.com/dhcchh/nysenasdaq-analysis?tab=readme-ov-file#investment-analytics-highlighting-the-value-of-stock-market-investments-for-long-term-growth).
 
 ## Skills
