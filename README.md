@@ -8,15 +8,14 @@ Data Science | Machine Learning | Economics |
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
-- 📈 Investigating stock market returns with SPY. [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth
-](https://github.com/dhcchh/nysenasdaq-analysis?tab=readme-ov-file#investment-analytics-highlighting-the-value-of-stock-market-investments-for-long-term-growth).
+- 📈 [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth](https://github.com/dhcchh/nysenasdaq-analysis?tab=readme-ov-file#investment-analytics-highlighting-the-value-of-stock-market-investments-for-long-term-growth).
 
 ## Skills
 - **Languages**: Python, R, SQL
-- **Areas of Interest**: Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
+- **Areas of Interest**: Artificial Intelligence, Large Language Models, Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
 
 ## Completed Projects
--  🤖 Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon
+-  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager)
   
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhchan/)
