@@ -17,6 +17,7 @@ Data Science | Machine Learning | Economics |
 ## Completed Projects
 -  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager)
 -  📈 [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth](https://github.com/dhcchh/nysenasdaq-analysis?tab=readme-ov-file#investment-analytics-highlighting-the-value-of-stock-market-investments-for-long-term-growth).
+-  🔍 [SMU BIA Datathon: Analyzing Security Threats Using LLMs and Data Visualization](https://github.com/dhcchh/Team-xgboosted---SMU-BIA-Datathon-2025).
 
   
 ## Get in Touch
