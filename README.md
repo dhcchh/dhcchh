@@ -11,7 +11,7 @@ Data Science | Machine Learning | Economics |
 - **Cooking up some new ideas now, stay tuned!**
 
 ## Skills
-- **Languages**: Python, R, SQL
+- **Languages**: Python, R, SQL, JavaScript 
 - **Areas of Interest**: Artificial Intelligence, Large Language Models, Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
 
 ## Completed Projects
