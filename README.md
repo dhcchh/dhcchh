@@ -8,7 +8,7 @@ Data Science | Machine Learning | Economics |
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
-- **Cooking up some new ideas now, stay tuned!**
+- **Projects on hold until May 2025 - stay tuned!**
 
 ## Skills
 - **Languages**: Python, R, SQL, JavaScript 
