@@ -22,7 +22,7 @@ Data Science | Machine Learning | Economics |
 -  🔍 [SMU BIA Datathon: Analyzing Security Threats Using LLMs and Data Visualization](https://github.com/dhcchh/Team-xgboosted---SMU-BIA-Datathon-2025)
 -  💬 [YouTube Sentiment Business Intelligence: NLP Pipeline for Customer Feedback Analysis](https://github.com/dhcchh/youtube-customer-insights)
 
-## Writing 
+## Writing (Medium)
 
 - SPY Analytics & Forecasting 
 [Part 1](https://medium.com/@chdinghao/spy-analytics-forecasting-part-1-consistent-returns-3cfe49e7b9b5) - [Part 2](https://medium.com/@chdinghao/spy-analytics-forecasting-part-2-hedging-against-inflation-a52a48b9469b) - [Part 3](https://medium.com/@chdinghao/spy-analytics-forecasting-part-2-hedging-against-inflation-a52a48b9469b)
@@ -31,5 +31,6 @@ Data Science | Machine Learning | Economics |
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhchan/)
+- [Medium](https://medium.com/@chdinghao)
 
 
