@@ -8,11 +8,13 @@ Data Science | Machine Learning | Economics |
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
-- **Projects on hold until May 2025 - stay tuned!**
+- [DRW Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction)
 
-## Skills
-- **Languages**: Python, R, SQL, JavaScript 
-- **Areas of Interest**: Artificial Intelligence, Large Language Models, Machine Learning, Predictive Modeling, Econometrics, Data Visualisation, Data Analysis
+## Tech Stack 
+- **Languages**: Python, R, SQL, JavaScript
+- **Cloud Platforms** : AWS, GCP
+- **DV Tools** : Tableau 
+- **Areas of Interest**: Data Analytics, Machine Learning, Econometrics (Causual Inference, Time Series) , Data Visualisation, AI (LLMs, Multimodal Models, Computer Vision, Graph Neural Networks)
 
 ## Completed Projects
 -  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager)
@@ -23,7 +25,6 @@ Data Science | Machine Learning | Economics |
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhchan/)
 
-Thanks for stopping by! 👨‍💻
 
 <!---
 dhcchh/dhcchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
