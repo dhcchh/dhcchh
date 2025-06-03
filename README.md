@@ -12,9 +12,9 @@ Data Science | Machine Learning | Economics |
 
 ## Tech Stack 
 - **Languages**: Python, R, SQL, JavaScript
-- **Cloud Platforms** : AWS, GCP
-- **DV Tools** : Tableau 
-- **Areas of Interest**: Data Analytics, Machine Learning, Econometrics (Causual Inference, Time Series) , Data Visualisation, AI (LLMs, Multimodal Models, Computer Vision, Graph Neural Networks)
+- **Cloud Platforms**: AWS, GCP
+- **DV Tools**: Tableau 
+- **Areas of Interest**: Data Analytics, Machine Learning, Econometrics (Causal Inference, Time Series) , Data Visualisation, AI (LLMs, Multimodal Models, Computer Vision, Graph Neural Networks)
 
 ## Completed Projects
 -  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager)
