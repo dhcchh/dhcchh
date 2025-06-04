@@ -29,6 +29,8 @@ Data Science | Machine Learning | Economics |
 
 - [VCT eSports Manager Hackathon](https://medium.com/@chdinghao/vct-esports-manager-hackthon-our-attempt-fbb7a2e37b4c)
 
+- [NLP to Decode Customer Frustration with Coffee Machines](https://medium.com/@chdinghao/nlp-to-decode-customer-frustration-with-coffee-machines-b0317c907fb8) 
+
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dhchan/)
 - [Medium](https://medium.com/@chdinghao)
