@@ -8,7 +8,6 @@ Data Science | Machine Learning | Economics |
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
-- [DRW Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction)
 
 ## Tech Stack 
 - **Languages**: Python, R, SQL, JavaScript
