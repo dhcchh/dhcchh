@@ -16,10 +16,11 @@ Data Engineering | Data Science | Economics |
 - Currently Learning More about data engineering 
 
 ## Completed Projects
--  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager) 
--  📈 [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth](https://github.com/dhcchh/SPY-Analytics-Forecasting-Project)
--  🔍 [SMU BIA Datathon: Analyzing Security Threats Using LLMs and Data Visualization](https://github.com/dhcchh/Team-xgboosted---SMU-BIA-Datathon-2025)
--  💬 [YouTube Sentiment Business Intelligence: NLP Pipeline for Customer Feedback Analysis](https://github.com/dhcchh/youtube-customer-insights)
+-  [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager) 
+-  [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth](https://github.com/dhcchh/SPY-Analytics-Forecasting-Project)
+-  [SMU BIA Datathon: Analyzing Security Threats Using LLMs and Data Visualization](https://github.com/dhcchh/Team-xgboosted---SMU-BIA-Datathon-2025)
+-  [YouTube Sentiment Business Intelligence: NLP Pipeline for Customer Feedback Analysis](https://github.com/dhcchh/youtube-customer-insights)
+-  [Machine Learning for Credit Card Fraud Detection](https://github.com/dhcchh/Machine-Learning-for-Credit-Card-Fraud-Detection)
 
 ## Writing (Medium)
 
