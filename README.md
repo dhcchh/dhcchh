@@ -13,7 +13,7 @@ Data Engineering | Data Science | Economics |
 - **Languages**: Python, SQL
 - **Cloud Platforms**: AWS, GCP
 - **DV Tools**: Apache Superset, Tableau 
-- **Currently Learning More about data engineering 
+- Currently Learning More about data engineering 
 
 ## Completed Projects
 -  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager) 
