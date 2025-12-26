@@ -1,22 +1,22 @@
 # Hello, I'm [Ding Hao] 👋
 
-Data Science | Machine Learning | Economics | 
+Data Engineering | Data Science | Economics | 
 
 ## About Me
-- 📊 I'm a Economics and Data Science and Analytics major at Singapore Management University.
-- 🚀 Passionate about predictive modeling, AI-driven solutions, and their applications.
+- 📊 I'm a Economics major at Singapore Management University.
+- 🚀 Passionate about Data and all of its applications 
 - 🎓 Always learning and improving through hands-on projects, Kaggle competitions, and hackathons.
 
 ## What I'm Working On
 
 ## Tech Stack 
-- **Languages**: Python, R, SQL, JavaScript
+- **Languages**: Python, SQL
 - **Cloud Platforms**: AWS, GCP
 - **DV Tools**: Apache Superset, Tableau 
-- **Areas of Interest**: Data Analytics, Machine Learning, Econometrics (Causal Inference, Time Series), AI (LLMs, Multimodal Models, Computer Vision, Graph Neural Networks)
+- **Currently Learning More about data engineering 
 
 ## Completed Projects
--  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager)
+-  🤖 [Building an LLM-powered digital assistant for the VCT eSports Manager Hackathon](https://github.com/dhcchh/vct-hackathon-esports-manager) 
 -  📈 [Investment Analytics: Highlighting the Value of Stock Market Investments for Long-Term Growth](https://github.com/dhcchh/SPY-Analytics-Forecasting-Project)
 -  🔍 [SMU BIA Datathon: Analyzing Security Threats Using LLMs and Data Visualization](https://github.com/dhcchh/Team-xgboosted---SMU-BIA-Datathon-2025)
 -  💬 [YouTube Sentiment Business Intelligence: NLP Pipeline for Customer Feedback Analysis](https://github.com/dhcchh/youtube-customer-insights)
