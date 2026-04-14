@@ -12,7 +12,7 @@ Data Engineering | Data Science | Economics |
 ## Tech Stack 
 - **Languages**: Python, SQL
 - **Cloud Platforms**: AWS, GCP
-- **DV Tools**: Apache Superset, Tableau 
+- **DV Tools**: Apache Superset, Tableau, Looker, Lightdash
 - Currently Learning More about data engineering 
 
 ## Completed Projects
