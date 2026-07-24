@@ -1,12 +1,21 @@
+<div align="center">
+
 # Hi, I'm Ding Hao 👋
 
-**Data Engineer** · Python · SQL · dbt
+<a href="https://dhcchh.github.io">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Data+Engineer;Pipelines+for+models%2C+not+dashboards;Spark+%C2%B7+Flink+%C2%B7+Iceberg+%C2%B7+Doris" alt="Data Engineer" />
+</a>
+
+<a href="https://dhcchh.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/dhchan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@chdinghao"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:chdinghao@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 Economics graduate from Singapore Management University, now starting out in data engineering. I came to it from the analytics side, having spent enough time downstream of messy, unreliable data to want to work on the layer that fixes it.
 
 What I'm drawn to is the data infrastructure that machines consume rather than people: feature pipelines behind models, training and evaluation data that's actually reproducible, and the plumbing under experimentation. Dashboards have a human who notices when a number looks wrong. A model retraining on bad features doesn't, which is what makes that side of the problem the harder and more interesting one.
-
-🌐 [Portfolio](https://dhcchh.github.io) · ✍️ [Medium](https://medium.com/@chdinghao) · 💼 [LinkedIn](https://www.linkedin.com/in/dhchan/)
 
 ## What I'm working on
 
@@ -60,6 +69,22 @@ Wise case study on cross-border card economics, weighing interchange and FX reve
 
 **[SPY Analytics & Forecasting](https://github.com/dhcchh/SPY-Analytics-Forecasting-Project)** · `Prophet` `LSTM` `XGBoost`\
 Long-horizon analysis of index investing: returns, inflation hedging, and forecasting. Written up in three parts: [1](https://medium.com/@chdinghao/spy-analytics-forecasting-part-1-consistent-returns-3cfe49e7b9b5) · [2](https://medium.com/@chdinghao/spy-analytics-forecasting-part-2-hedging-against-inflation-a52a48b9469b) · [3](https://medium.com/@chdinghao/spy-analytics-forecasting-part-3-forecasting-future-returns-3c3cb650beef)
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhcchh&theme=github-compact&hide_border=true&area=true&custom_title=Contributions" alt="Contribution activity graph" width="100%" />
+
+<img src="https://streak-stats.demolab.com/?user=dhcchh&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhcchh/dhcchh/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhcchh/dhcchh/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/dhcchh/dhcchh/output/snake-light.svg" alt="Snake eating my contribution graph" width="100%" />
+</picture>
+
+</div>
 
 ## Get in touch
 
