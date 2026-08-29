@@ -104,7 +104,7 @@ Long-horizon analysis of index investing: returns, inflation hedging, and foreca
 
 ## Get in touch
 
-- 🌐 [dhcchh.github.io](https://dhcchh.github.io)
+- 🌐 [Personal Website](https://dhcchh.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhchan/)
 - ✍️ [Medium](https://medium.com/@chdinghao)
 - 📫 [chandinghao@yahoo.com](mailto:chandinghao@yahoo.com)
