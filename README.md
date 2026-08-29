@@ -76,9 +76,9 @@ Long-horizon analysis of index investing: returns, inflation hedging, and foreca
 
 <div align="center">
 
-<a href="https://github.com/dhcchh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dhcchh&theme=github-compact&hide_border=true&area=true&custom_title=Contributions" alt="Contribution activity graph" width="100%" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhcchh&theme=github-compact&hide_border=true&area=true&custom_title=Contributions" alt="Contribution activity graph" width="100%" />
 
-<a href="https://github.com/dhcchh"><img src="https://streak-stats.demolab.com/?user=dhcchh&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" /></a>
+<img src="https://streak-stats.demolab.com/?user=dhcchh&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhcchh/dhcchh/output/snake-dark.svg" />
