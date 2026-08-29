@@ -3,7 +3,7 @@
 # Hi there! I'm Ding Hao 👋
 
 <a href="https://dhcchh.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Data+Engineer;Pipelines+for+models%2C+not+dashboards;Spark+%C2%B7+Flink+%C2%B7+Iceberg+%C2%B7+Doris" alt="Data Engineer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Data+Engineer;Deeper%2C+not+wider;Java+%C2%B7+Parquet+%C2%B7+Iceberg+%C2%B7+Flink" alt="Data Engineer" />
 </a>
 
 <a href="https://dhcchh.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
@@ -24,12 +24,11 @@ I've come to realise that I enjoy more technically complex work involving stream
 
 There's quite a fair bit that I don't know but here's some things I am currently learning. 
 
-- **Distributed processing**: Spark for batch, Flink for streaming, and learning where the boundary between them actually sits.
-- **Lakehouse storage**: Iceberg table formats on Hadoop, with schema evolution and time travel that survive contact with production.
-- **Real-time OLAP**: Doris and Kudu for the serving layer, where query latency stops being an afterthought.
-- **Feature pipelines**: serving the same transformations to training and inference without skew.
-- **Experimentation infrastructure**: assignment, exposure logging, and metric pipelines that make an A/B readout trustworthy.
-- **Data quality**: contracts, tests, and lineage, since a silent schema change is a model failure nobody sees.
+- **Java and Spring Boot**: the backend stack I use at work, and my way into the JVM that most of the data ecosystem runs on.
+- **File formats**: how columnar formats like Parquet and ORC encode, compress, and order data on disk, and what each choice costs at read time.
+- **Lakehouse storage**: object storage as the base layer, table formats like Iceberg on top for schema evolution, snapshots, and time travel.
+- **Streaming pipelines**: event time, windowing, and state, and the point where streaming earns its complexity over a batch job.
+- **Use cases**: matching the system to the workload, down to batch training on a fixed snapshot versus models updating live from a stream.
 
 Writing up what I learn on [Medium](https://medium.com/@chdinghao) as I go.
 
@@ -39,7 +38,7 @@ Writing up what I learn on [Medium](https://medium.com/@chdinghao) as I go.
 | --- | --- |
 | **Languages** | Python, SQL |
 | **Pipelines** | dbt |
-| **Picking up next** | Spark, Flink, Hadoop, Iceberg, Doris, Kudu, Airflow |
+| **Picking up next** | Java, Spring Boot, Spark, Flink, Iceberg, Parquet, Airflow |
 | **ML** | scikit-learn, XGBoost, pandas, LangChain / LangGraph |
 | **Cloud** | AWS, GCP |
 | **Analytics & BI** | Apache Superset, Tableau, Looker, Lightdash |
