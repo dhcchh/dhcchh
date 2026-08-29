@@ -34,15 +34,29 @@ Writing up what I learn on [Medium](https://medium.com/@chdinghao) as I go.
 
 ## Tech stack
 
-| | |
-| --- | --- |
-| **Languages** | Python, SQL |
-| **Pipelines** | dbt |
-| **Picking up next** | Java, Spring Boot, Spark, Flink, Iceberg, Parquet, Airflow |
-| **ML** | scikit-learn, XGBoost, pandas, LangChain / LangGraph |
-| **Cloud** | AWS, GCP |
-| **Analytics & BI** | Apache Superset, Tableau, Looker, Lightdash |
-| **Apps** | Streamlit, Flask |
+<div align="center">
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Pipelines**<br>
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**Cloud**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**Analytics & BI**<br>
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Lightdash](https://img.shields.io/badge/Lightdash-7262FF?style=for-the-badge)
+
+</div>
 
 ## Projects
 
