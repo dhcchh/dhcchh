@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ding Hao 👋
+# Hi there! I'm Ding Hao 👋
 
 <a href="https://dhcchh.github.io">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Data+Engineer;Pipelines+for+models%2C+not+dashboards;Spark+%C2%B7+Flink+%C2%B7+Iceberg+%C2%B7+Doris" alt="Data Engineer" />
@@ -13,13 +13,16 @@
 
 </div>
 
-Economics graduate from Singapore Management University, now starting out in data engineering. I came to it from the analytics side, having spent enough time downstream of messy, unreliable data to want to work on the layer that fixes it.
+I graduated with a BSc Economics from Singapore Management University. I'm currently starting out in data engineering. 
+Previously, I came from analytics and spent enough time downstream of messy, unreliable data to want to work on the layer that fixed it
 
-What I'm drawn to is the data infrastructure that machines consume rather than people: feature pipelines behind models, training and evaluation data that's actually reproducible, and the plumbing under experimentation. Dashboards have a human who notices when a number looks wrong. A model retraining on bad features doesn't, which is what makes that side of the problem the harder and more interesting one.
+Though my previous rows were "Data Analyst" officially, I have had wide exposure to various data pipelines (Snowflake/Redshift/GCP OLAPs, Airflow, dbt etc) that powered the visualization tools that my dashboards used, i.e. data engineering for human consumption. 
+
+I've come to realise that I enjoy more technically complex work involving streaming pipelines, and data pipelines not just for human consumption, but for various ML/AI algorithms and other machine use cases. 
 
 ## What I'm working on
 
-Moving from single-node Python into distributed systems, and from batch reporting into infrastructure that serves models and experiments.
+There's quite a fair bit that I don't know but here's some things I am currently learning. 
 
 - **Distributed processing**: Spark for batch, Flink for streaming, and learning where the boundary between them actually sits.
 - **Lakehouse storage**: Iceberg table formats on Hadoop, with schema evolution and time travel that survive contact with production.
