@@ -32,6 +32,11 @@ There's quite a fair bit that I don't know but here's some things I am currently
 
 Writing up what I learn on [Medium](https://medium.com/@chdinghao) as I go.
 
+## Currently reading
+
+- *Fundamentals of Data Engineering* by Joe Reis and Matt Housley
+- *Designing Data-Intensive Applications* by Martin Kleppmann
+
 ## Tech stack
 
 <div align="center">
