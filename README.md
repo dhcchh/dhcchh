@@ -16,7 +16,7 @@
 I graduated with a BSc Economics from Singapore Management University. I'm currently starting out in data engineering. 
 Previously, I came from analytics and spent enough time downstream of messy, unreliable data to want to work on the layer that fixed it
 
-Though my previous rows were "Data Analyst" officially, I have had wide exposure to various data pipelines (Snowflake/Redshift/GCP OLAPs, Airflow, dbt etc) that powered the visualization tools that my dashboards used, i.e. data engineering for human consumption. 
+Though my previous roles were "Data Analyst" officially, I have had wide exposure to various data pipelines (Snowflake/Redshift/GCP OLAPs, Airflow, dbt etc) that powered the visualization tools that my dashboards used, i.e. data engineering for human consumption. 
 
 I've come to realise that I enjoy more technically complex work involving streaming pipelines, and data pipelines not just for human consumption, but for various ML/AI algorithms and other machine use cases. 
 
