@@ -30,7 +30,7 @@ There's quite a fair bit that I don't know but here's some things I am currently
 - **Streaming pipelines**: event time, windowing, and state, and the point where streaming earns its complexity over a batch job.
 - **Use cases**: matching the system to the workload, down to batch training on a fixed snapshot versus models updating live from a stream.
 
-Writing up what I learn on [Medium](https://medium.com/@chdinghao) as I go.
+Writing up what I learn on [my blog](https://dhcchh.github.io/blog/) as I go.
 
 ## Currently reading
 
