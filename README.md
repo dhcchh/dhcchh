@@ -8,7 +8,7 @@
 
 <a href="https://dhcchh.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/dhchan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@chdinghao"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://dhcchh.github.io/blog/"><img src="https://img.shields.io/badge/Blog-0B1120?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
 <a href="mailto:chdinghao@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -68,14 +68,17 @@ Writing up what I learn on [my blog](https://dhcchh.github.io/blog/) as I go.
 
 Ordered by how much of the work was engineering rather than analysis.
 
+**[Crypto Market Intelligence Pipeline](https://github.com/dhcchh/crypto-market-data-pipeline)** · `Python` `Airflow` `S3` `dbt` `Athena` `Grafana`\
+Ingests Kraken market candles into S3 as Parquet, transforms them into analytics marts with dbt and Athena, and presents the results in Grafana dashboards.
+
 **[YouTube Customer Insights](https://github.com/dhcchh/youtube-customer-insights)** · `Python` `NLP`\
-Ingestion-to-insight pipeline: pulls comments from the YouTube API, cleans and normalises free text, then clusters it into product feedback themes. The interesting part was making the extraction step survive real comment data. [Write-up →](https://medium.com/@chdinghao/nlp-to-decode-customer-frustration-with-coffee-machines-b0317c907fb8)
+Ingestion-to-insight pipeline: pulls comments from the YouTube API, cleans and normalises free text, then clusters it into product feedback themes. The interesting part was making the extraction step survive real comment data. [Write-up →](https://dhcchh.github.io/blog/nlp-decode-customer-frustration-coffee-machines/)
 
 **[Vessel-Cargo Optimisation](https://github.com/dhcchh/Team-xgboostedv2---SMU_BIA_2026_Datathon)** · `Python` `LangGraph` `Streamlit`\
 SMU BIA Datathon 2026. A TCE costing engine with Dijkstra port-distance lookups feeding a Hungarian-algorithm matcher, wrapped in a LangGraph agent that re-runs the optimisation for "what-if" questions.
 
 **[ScoutBot](https://github.com/dhcchh/vct-hackathon-esports-manager)** · `Python` `AWS Bedrock` `Streamlit`\
-VCT Esports Manager Hackathon. Player-stat processing pipeline behind a Bedrock-backed scouting assistant, deployed with a Streamlit front-end. [Write-up →](https://medium.com/@chdinghao/vct-esports-manager-hackthon-our-attempt-fbb7a2e37b4c)
+VCT Esports Manager Hackathon. Player-stat processing pipeline behind a Bedrock-backed scouting assistant, deployed with a Streamlit front-end. [Write-up →](https://dhcchh.github.io/blog/vct-esports-manager-hackathon-our-attempt/)
 
 **[Inflation Hedging with ETFs](https://github.com/dhcchh/IS428-G2T3-Project-)** · `Python` `Flask`\
 IS428. Flask microservices handling data fetching and processing for an ETF portfolio matcher, served to an interactive front-end.
@@ -90,7 +93,7 @@ End-to-end ML on a heavily imbalanced dataset: resampling, model comparison, and
 Wise case study on cross-border card economics, weighing interchange and FX revenue against transaction cost.
 
 **[SPY Analytics & Forecasting](https://github.com/dhcchh/SPY-Analytics-Forecasting-Project)** · `Prophet` `LSTM` `XGBoost`\
-Long-horizon analysis of index investing: returns, inflation hedging, and forecasting. Written up in three parts: [1](https://medium.com/@chdinghao/spy-analytics-forecasting-part-1-consistent-returns-3cfe49e7b9b5) · [2](https://medium.com/@chdinghao/spy-analytics-forecasting-part-2-hedging-against-inflation-a52a48b9469b) · [3](https://medium.com/@chdinghao/spy-analytics-forecasting-part-3-forecasting-future-returns-3c3cb650beef)
+Long-horizon analysis of index investing: returns, inflation hedging, and forecasting. Written up in three parts: [1](https://dhcchh.github.io/blog/spy-analytics-forecasting-part-1-consistent-returns/) · [2](https://dhcchh.github.io/blog/spy-analytics-forecasting-part-2-hedging-against-inflation/) · [3](https://dhcchh.github.io/blog/spy-analytics-forecasting-part-3-forecasting-future-returns/)
 
 ## Activity
 
@@ -110,5 +113,5 @@ Long-horizon analysis of index investing: returns, inflation hedging, and foreca
 
 - 🌐 [Personal Website](https://dhcchh.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhchan/)
-- ✍️ [Medium](https://medium.com/@chdinghao)
+- ✍️ [Blog](https://dhcchh.github.io/blog/)
 - 📫 [chandinghao@yahoo.com](mailto:chandinghao@yahoo.com)
